@@ -1,4 +1,3 @@
----
 
 # 🎲 Dice Game (DOM Practice)
 
