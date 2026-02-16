@@ -1,5 +1,3 @@
-Perfect 👍 keeping it simple and student-style.
-
 ---
 
 # 🎲 Dice Game (DOM Practice)
